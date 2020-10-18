@@ -13,3 +13,17 @@
 
 <br/>
 <br/>
+
+
+## Technologies :fire:
+- Data Science.
+- Python.
+- Competitive Programming.
+- Machine Learning
+- Deep Learning
+
+**Languages and Tools:**  
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chippy2906&theme=radical&hide=glsl,python" />
+<img src="https://github-readme-stats.vercel.app/api?username=chippy2906&&show_icons=true&theme=radical&line_height=27&v=5" alt="Sreeragh's GitHub Stats" />
+
